@@ -19,11 +19,11 @@
 
 ### Our next analysis was the Vacation Search, in which we utilized Google Maps API, on the previously recorded information from the Weather Database. The Gmaps API helped us plot different cities in the world based on the specific criteria searched for, the image below shows the locations for all the cities gathered, in which minimum and maximum temperatures were between 75 and 95 degrees, Fahrenheit.
 
-![](Vacation_Search/Weather_vacation_map.PNG)
+![](Vacation_Search/WeatherPy_vacation_map.PNG)
 
 
 ### In the Vacation Itinerary folder, we used the Gmaps Directions API to create an itinerary for our customers' vacations. In the image below, we used the information previsouly gathered in the Vacation Search for four cities/stops in the state of California and created an itinerary for the trip, with a method of traveling chosen is "walking". We are also able to use markers to locate a hotel within each of the four cities to be visited, and display it in our plot.
 
 ![](Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
-![](Vacation_Search/CaptureWeatherPy_travel_map_markers.PNG)
+![](Vacation_Itinerary/CaptureWeatherPy_travel_map_markers.PNG)
